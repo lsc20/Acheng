@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lsc20.github.io/Acheng/</id>
     <title>阿城</title>
-    <updated>2019-10-18T16:21:19.913Z</updated>
+    <updated>2019-10-19T10:47:06.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lsc20.github.io/Acheng/"/>
     <link rel="self" href="https://lsc20.github.io/Acheng//atom.xml"/>
@@ -10,6 +10,68 @@
     <logo>https://lsc20.github.io/Acheng//images/avatar.png</logo>
     <icon>https://lsc20.github.io/Acheng//favicon.ico</icon>
     <rights>All rights reserved 2019, 阿城</rights>
+    <entry>
+        <title type="html"><![CDATA[面试心得]]></title>
+        <id>https://lsc20.github.io/Acheng//post/mian-shi-xin-de</id>
+        <link href="https://lsc20.github.io/Acheng//post/mian-shi-xin-de">
+        </link>
+        <updated>2019-10-19T10:45:15.000Z</updated>
+        <summary type="html"><![CDATA[<p>😎整理学习过的知识和项目</p>
+<p>1.挑选自己中意的公司</p>
+<p>聪明自信始终是加分项</p>
+<p>心态不急不躁有行动</p>
+<p>简历，笔试，面试</p>
+<p>不要因为失败就否定自己</p>
+<p>1.没工作经验</p>
+<p>2.肚子有货，心里知道自己能不能做事的！</p>
+<p>写项目经历</p>
+<p>程序员拍卖，拉钩网</p>
+<p>什么是作品</p>
+<p>能够反映技能水平，印证简历能力的证据</p>
+<p>2.不限于简历，博客，代码片段，demo，组件，插件，页面，搭建过的网站</p>
+<p>其他和技术不相关，但能表现出其他人优异的东西</p>
+<p>如何组织作品</p>
+<p>知识就是作品</p>
+<p>博客</p>
+<p>简历觉得了你的待遇和机会</p>
+<p>最大化体现出专业能力，自己能hold住</p>
+<p>给面试官出选择题</p>
+<p>扬长避短，切记</p>
+<p>不可造假，但可修饰，不必过于保守</p>
+<p>了解，知道是做什么用的</p>
+<p>熟悉：动手玩过，或者平时经常使用到，</p>
+<p>精通：玩的恨透，甚至能写出简单的原型</p>
+<p>准备一个自己有成就感的项目，能来聊天</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>😎整理学习过的知识和项目</p>
+<p>1.挑选自己中意的公司</p>
+<p>聪明自信始终是加分项</p>
+<p>心态不急不躁有行动</p>
+<p>简历，笔试，面试</p>
+<p>不要因为失败就否定自己</p>
+<p>1.没工作经验</p>
+<p>2.肚子有货，心里知道自己能不能做事的！</p>
+<p>写项目经历</p>
+<p>程序员拍卖，拉钩网</p>
+<p>什么是作品</p>
+<p>能够反映技能水平，印证简历能力的证据</p>
+<p>2.不限于简历，博客，代码片段，demo，组件，插件，页面，搭建过的网站</p>
+<p>其他和技术不相关，但能表现出其他人优异的东西</p>
+<p>如何组织作品</p>
+<p>知识就是作品</p>
+<p>博客</p>
+<p>简历觉得了你的待遇和机会</p>
+<p>最大化体现出专业能力，自己能hold住</p>
+<p>给面试官出选择题</p>
+<p>扬长避短，切记</p>
+<p>不可造假，但可修饰，不必过于保守</p>
+<p>了解，知道是做什么用的</p>
+<p>熟悉：动手玩过，或者平时经常使用到，</p>
+<p>精通：玩的恨透，甚至能写出简单的原型</p>
+<p>准备一个自己有成就感的项目，能来聊天</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://lsc20.github.io/Acheng//post/hello-gridea</id>
