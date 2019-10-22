@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lsc20.github.io/Acheng/</id>
     <title>阿城</title>
-    <updated>2019-10-19T10:48:34.501Z</updated>
+    <updated>2019-10-22T16:17:28.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lsc20.github.io/Acheng/"/>
     <link rel="self" href="https://lsc20.github.io/Acheng//atom.xml"/>
@@ -10,6 +10,38 @@
     <logo>https://lsc20.github.io/Acheng//images/avatar.png</logo>
     <icon>https://lsc20.github.io/Acheng//favicon.ico</icon>
     <rights>All rights reserved 2019, 阿城</rights>
+    <entry>
+        <title type="html"><![CDATA[前端如何高效学习新编程技术20191022]]></title>
+        <id>https://lsc20.github.io/Acheng//post/qian-duan-ru-he-gao-xiao-xue-xi-xin-bian-cheng-ji-zhu-20191022</id>
+        <link href="https://lsc20.github.io/Acheng//post/qian-duan-ru-he-gao-xiao-xue-xi-xin-bian-cheng-ji-zhu-20191022">
+        </link>
+        <updated>2019-10-22T15:32:51.000Z</updated>
+        <summary type="html"><![CDATA[<p>开始！！！😃<br>
+现在新技术层出不穷！每天都新技术产生！<br>
+作为一个程序员肯定是非常焦虑的<br>
+如何让我们的新技术变现<br>
+而如何不被我们的程序员或者不被公司淘汰<br>
+但我通过几年的努力就在学前端发现<br>
+</b></p>
+<h1>高效学习程序员新技能</h1>
+]]></summary>
+        <content type="html"><![CDATA[<p>开始！！！😃<br>
+现在新技术层出不穷！每天都新技术产生！<br>
+作为一个程序员肯定是非常焦虑的<br>
+如何让我们的新技术变现<br>
+而如何不被我们的程序员或者不被公司淘汰<br>
+但我通过几年的努力就在学前端发现<br>
+</b></p>
+<h1>高效学习程序员新技能</h1>
+<!-- more -->
+<h2>前端新的知识有四步思路</h2>
+第一步：</br>
+👉快速把我们的教程官方runoob的语言代码，比如一个标题是通过   <h1>....<h6>一个元素通过<div><mash><p><b><a><img>最好经常看几遍“div”和“img”大概一天到二天就可以完成不难哦！
+第二步：</br>
+👉快速找到网上一个对应的实践视频，其实在网上有很多可以学习新技能或者教程的基础
+第三步：</br>
+👉在公司大中小型需要极力推行]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面试心得]]></title>
         <id>https://lsc20.github.io/Acheng//post/mian-shi-xin-de</id>
