@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lsc20.github.io/Acheng/</id>
     <title>阿城</title>
-    <updated>2020-01-08T16:22:12.104Z</updated>
+    <updated>2020-01-08T16:28:27.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lsc20.github.io/Acheng/"/>
     <link rel="self" href="https://lsc20.github.io/Acheng/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 阿城</rights>
     <entry>
         <title type="html"><![CDATA[前端如何高效学习新编程技术20191022]]></title>
-        <id>https://lsc20.github.io/Acheng/post/qian-duan-ru-he-gao-xiao-xue-xi-xin-bian-cheng-ji-zhu-20191022</id>
-        <link href="https://lsc20.github.io/Acheng/post/qian-duan-ru-he-gao-xiao-xue-xi-xin-bian-cheng-ji-zhu-20191022">
+        <id>https://lsc20.github.io/Acheng/qian-duan-ru-he-gao-xiao-xue-xi-xin-bian-cheng-ji-zhu-20191022</id>
+        <link href="https://lsc20.github.io/Acheng/qian-duan-ru-he-gao-xiao-xue-xi-xin-bian-cheng-ji-zhu-20191022">
         </link>
         <updated>2019-10-22T15:32:51.000Z</updated>
         <summary type="html"><![CDATA[<p>开始！！！😃<br>
@@ -46,8 +46,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[面试心得]]></title>
-        <id>https://lsc20.github.io/Acheng/post/mian-shi-xin-de</id>
-        <link href="https://lsc20.github.io/Acheng/post/mian-shi-xin-de">
+        <id>https://lsc20.github.io/Acheng/mian-shi-xin-de</id>
+        <link href="https://lsc20.github.io/Acheng/mian-shi-xin-de">
         </link>
         <updated>2019-10-19T10:45:15.000Z</updated>
         <summary type="html"><![CDATA[<p>😎整理学习过的知识和项目</p>
@@ -108,8 +108,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://lsc20.github.io/Acheng/post/hello-gridea</id>
-        <link href="https://lsc20.github.io/Acheng/post/hello-gridea">
+        <id>https://lsc20.github.io/Acheng/hello-gridea</id>
+        <link href="https://lsc20.github.io/Acheng/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>和个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
