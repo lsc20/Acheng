@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lsc20.github.io/Acheng/</id>
     <title>阿城</title>
-    <updated>2020-01-08T16:29:09.699Z</updated>
+    <updated>2020-03-01T10:33:30.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lsc20.github.io/Acheng/"/>
     <link rel="self" href="https://lsc20.github.io/Acheng/atom.xml"/>
@@ -11,9 +11,31 @@
     <icon>https://lsc20.github.io/Acheng/favicon.ico</icon>
     <rights>All rights reserved 2020, 阿城</rights>
     <entry>
+        <title type="html"><![CDATA[美工电商作品]]></title>
+        <id>https://lsc20.github.io/Acheng/pMYtP-_EI/</id>
+        <link href="https://lsc20.github.io/Acheng/pMYtP-_EI/">
+        </link>
+        <updated>2020-03-01T10:31:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>第一个公司<br>
+<img src="https://lsc20.github.io/Acheng//post-images/1583058697231.jpg" alt="" loading="lazy"><br>
+第二个公司<br>
+<img src="https://lsc20.github.io/Acheng//post-images/1583058746803.jpg" alt="" loading="lazy"><br>
+第三个公司<br>
+<img src="https://lsc20.github.io/Acheng//post-images/1583058756512.jpg" alt="" loading="lazy">😗😇</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>第一个公司<br>
+<img src="https://lsc20.github.io/Acheng//post-images/1583058697231.jpg" alt="" loading="lazy"><br>
+第二个公司<br>
+<img src="https://lsc20.github.io/Acheng//post-images/1583058746803.jpg" alt="" loading="lazy"><br>
+第三个公司<br>
+<img src="https://lsc20.github.io/Acheng//post-images/1583058756512.jpg" alt="" loading="lazy">😗😇</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[前端如何高效学习新编程技术20191022]]></title>
-        <id>https://lsc20.github.io/Acheng/qian-duan-ru-he-gao-xiao-xue-xi-xin-bian-cheng-ji-zhu-20191022</id>
-        <link href="https://lsc20.github.io/Acheng/qian-duan-ru-he-gao-xiao-xue-xi-xin-bian-cheng-ji-zhu-20191022">
+        <id>https://lsc20.github.io/Acheng/qian-duan-ru-he-gao-xiao-xue-xi-xin-bian-cheng-ji-zhu-20191022/</id>
+        <link href="https://lsc20.github.io/Acheng/qian-duan-ru-he-gao-xiao-xue-xi-xin-bian-cheng-ji-zhu-20191022/">
         </link>
         <updated>2019-10-22T15:32:51.000Z</updated>
         <summary type="html"><![CDATA[<p>开始！！！😃<br>
@@ -46,8 +68,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[面试心得]]></title>
-        <id>https://lsc20.github.io/Acheng/mian-shi-xin-de</id>
-        <link href="https://lsc20.github.io/Acheng/mian-shi-xin-de">
+        <id>https://lsc20.github.io/Acheng/mian-shi-xin-de/</id>
+        <link href="https://lsc20.github.io/Acheng/mian-shi-xin-de/">
         </link>
         <updated>2019-10-19T10:45:15.000Z</updated>
         <summary type="html"><![CDATA[<p>😎整理学习过的知识和项目</p>
@@ -108,8 +130,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://lsc20.github.io/Acheng/hello-gridea</id>
-        <link href="https://lsc20.github.io/Acheng/hello-gridea">
+        <id>https://lsc20.github.io/Acheng/hello-gridea/</id>
+        <link href="https://lsc20.github.io/Acheng/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>和个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
