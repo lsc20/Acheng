@@ -1,41 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lsc20.github.io/Acheng/</id>
-    <title>阿城</title>
-    <updated>2020-03-24T07:31:24.047Z</updated>
+    <title>阿城的无声</title>
+    <updated>2020-03-24T08:10:42.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lsc20.github.io/Acheng/"/>
     <link rel="self" href="https://lsc20.github.io/Acheng/atom.xml"/>
-    <subtitle>🙋🏻‍♂️这里是我的个人站点，我在这里记录关于电商美工、设计、前端相关的内容，欢迎关注！</subtitle>
+    <subtitle>🙋🏻‍♂️这里是我本人无声聋人，我在这里记录关于前端、设计、产品相关的内容，欢迎关注！</subtitle>
     <logo>https://lsc20.github.io/Acheng/images/avatar.png</logo>
     <icon>https://lsc20.github.io/Acheng/favicon.ico</icon>
-    <rights>All rights reserved 2020, 阿城</rights>
+    <rights>All rights reserved 2020, 阿城的无声</rights>
     <entry>
-        <title type="html"><![CDATA[求职意向：UI设计、前端开发]]></title>
+        <title type="html"><![CDATA[求职意向：前端开发]]></title>
         <id>https://lsc20.github.io/Acheng/JPURZc28M/</id>
         <link href="https://lsc20.github.io/Acheng/JPURZc28M/">
         </link>
-        <updated>2020-03-24T06:52:11.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美工电商作品]]></title>
-        <id>https://lsc20.github.io/Acheng/pMYtP-_EI/</id>
-        <link href="https://lsc20.github.io/Acheng/pMYtP-_EI/">
-        </link>
-        <updated>2020-03-01T10:31:07.000Z</updated>
-        <summary type="html"><![CDATA[<p>第一个公司<br>
-<img src="https://lsc20.github.io/Acheng//post-images/1583058697231.jpg" alt="" loading="lazy"><br>
-第二个公司<br>
-<img src="https://lsc20.github.io/Acheng//post-images/1583058746803.jpg" alt="" loading="lazy"><br>
-第三个公司<br>
-<img src="https://lsc20.github.io/Acheng//post-images/1583058756512.jpg" alt="" loading="lazy">😗😇</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>第一个公司<br>
-<img src="https://lsc20.github.io/Acheng//post-images/1583058697231.jpg" alt="" loading="lazy"><br>
-第二个公司<br>
-<img src="https://lsc20.github.io/Acheng//post-images/1583058746803.jpg" alt="" loading="lazy"><br>
-第三个公司<br>
-<img src="https://lsc20.github.io/Acheng//post-images/1583058756512.jpg" alt="" loading="lazy">😗😇</p>
+        <updated>2020-01-08T06:52:11.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>生日：1996.08.18        电话：15659940960        邮箱：1028259073＠qq.com
+</code></pre>
+<h2 id="自我评价">😀自我评价</h2>
+<pre><code>学习背景：计算机专业生，主攻平面设计，擅长PPT文案设计制作，逻辑思维能力强，富有创新意识。
+专业能力：平面设计经验丰富，多次参与大型设计比赛，取得优良成绩，有良好的设计理念。 
+个人能力：热爱生活，热爱运动，富有爱心，喜欢学习设计知识，创作热情高，适应环境能力强。
+综合评定：优秀的团队合作者，性格开朗大方，工作作风严谨，稳健踏实，高效执行力，抗压能力强。
+</code></pre>
+<h2 id="教育背景">😃教育背景</h2>
+<pre><code>学历专业	2016.09-2019.07		福州职业技术学院	计算机专业
+主修课程	二维动画设计、网站原型图设计、UI界面设计、网站设计与制作、计算机应用基础等
+</code></pre>
+<h2 id="奖励与荣誉">😄奖励与荣誉</h2>
+<h3 id="2017年度">2017年度</h3>
+<pre><code>荣获	特殊教育学院连连续两年获得一等奖学金
+荣获	特殊教育学院连续两年获得三好学生
+荣获	连续两年获得国家励志奖学金
+荣获	2017年度福州职业特殊教育学院LOGO设计大赛一等奖
+</code></pre>
+<h3 id="2018年度">2018年度</h3>
+<pre><code>荣获	2018年度龙岩市残疾人技能大赛网页设计第一名
+荣获	2018年度福建省第六届残疾人职业技能竞赛网页设计第四名
+</code></pre>
+<h2 id="校园实践">😁校园实践</h2>
+<pre><code>1、2017-2018期间，在校学生会担任学生会副主席一职，监督学习部等分管部门开展工作，督促各部做好工作计划、工作总结、汇报等事宜；协调各部门工作关系，确保各项活动有序进行；
+2、担任班级学委一职，负责协助老师收发作业，及时反馈班内同学学习情况和存在问题，组织同学开展学习经验交流会，帮助同学和老师搞好关系。
+3、多次参与社会志愿活动；例如：与正荣财富中心社区开展的“小手雕梦，大爱连心”亲子活动
+</code></pre>
+<h2 id="职业技能">😂职业技能</h2>
+<pre><code>计算机能力	熟练使用Word、Excel、PowerPoint等办公软件；
+熟练掌握Ps、Ai、、Axure、Ae、Pr、Ae等软件，擅长平面设计、UI设计；
+熟练使用HTML、CSS网页编辑语言；
+团队能力具有丰富的团队组建、管理与协调经验，能够独挡一面；
+</code></pre>
+<h2 id="专业认证">🤣专业认证</h2>
+<pre><code>计算机CEAC认证</code></pre>
 ]]></content>
     </entry>
     <entry>
@@ -61,7 +77,16 @@
 但我通过几年的努力就在学前端发现<br>
 </b></p>
 <h1>高效学习程序员新技能</h1>
-]]></content>
+<!-- more -->
+<h2>前端新的知识有四步思路</h2>
+第一步：</br>
+👉快速把我们的教程官方runoob的语言代码，比如一个标题是通过   <h1>....<h6>一个元素通过<div><mash><p><b><a><img>最好经常看几遍“div”和“img”大概一天到二天就可以完成不难哦！
+</br>
+第二步：</br>
+👉快速找到网上一个对应的实践视频，其实在网上有很多可以学习新技能或者教程的基础
+</br>
+第三步：</br>
+👉在公司大中小型需要极力推行]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[面试心得]]></title>
@@ -122,6 +147,7 @@
 <p>熟悉：动手玩过，或者平时经常使用到，</p>
 <p>精通：玩的恨透，甚至能写出简单的原型</p>
 <p>准备一个自己有成就感的项目，能来聊天</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -130,5 +156,9 @@
         <link href="https://lsc20.github.io/Acheng/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>和个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
     </entry>
 </feed>
