@@ -1,226 +1,120 @@
-<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="utf-8" />
-<title>
-    阿城
-</title>
-<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
-<meta http-equiv="x-dns-prefetch-control" content="on">
-<link rel="dns-prefetch" href="https://lsc20.github.io/Acheng/">
-<link rel="dns-prefetch" href="https://cdn.bootcss.com">
-<meta name="author" content="">
-<meta name="description" content="天生我才必有用，一入江湖岁月催。有朝一日虎归山，定要血染半边天。">
-<meta name="keywords" content="">
-<link rel="stylesheet" href="https://lsc20.github.io/Acheng//media/css/style.min.css" />
-<link rel="stylesheet" href="https://lsc20.github.io/Acheng//styles/main.css" />
-<link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
-<script type="text/javascript" src="https://apps.bdimg.com/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="https://lsc20.github.io/Acheng//media/script/tocbot.min.js"></script>
-<script src="https://lsc20.github.io/Acheng//media/script/script.min.js"></script>
-<script src="https://lsc20.github.io/Acheng//media/script/icon.min.js"></script>
-<link rel="stylesheet" href="https://lsc20.github.io/Acheng//media/live2d/css/live2d.css" />
-<script src="https://cdn.bootcss.com/highlight.js/9.13.1/highlight.min.js"></script>
-<link href="https://cdn.bootcss.com/highlight.js/9.13.1/styles/atelier-estuary-dark.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.css">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.js"></script>
-<script>
-    (function() {
-        var bp = document.createElement('script');
-        var curProtocol = window.location.protocol.split(':')[0];
-        if (curProtocol === 'https') {
-            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
-        } else {
-            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
-        }
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(bp, s);
-    })();
-</script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>阿城</title>
+<link rel="shortcut icon" href="https://lsc20.github.io/Acheng//favicon.ico">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css">
+<link rel="stylesheet" href="https://lsc20.github.io/Acheng//media/css/tailwind.css">
+<link rel="stylesheet" href="https://lsc20.github.io/Acheng//styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="阿城 - Atom Feed" href="https://lsc20.github.io/Acheng//atom.xml">
 
+    
+
+  <meta name="description" content="温故而知新" />
 </head>
 <body>
-    <div class="wrapper">
-        <header>
-    <nav class="navbar">
-        <div class="container">
-            <div class="navbar-header header-logo">
-                <a href="https://lsc20.github.io/Acheng/">
-                    阿城
-                </a>
-            </div>
-            <div class="menu navbar-right">
-                
-                <a class="menu-item" href="https://lsc20.github.io/Acheng/">
-                    首页
-                </a>
-                
-                <a class="menu-item" href="https://lsc20.github.io/Acheng//archives">
-                    时间线
-                </a>
-                
-                <a class="menu-item" href="https://lsc20.github.io/Acheng/archives">
-                    标签
-                </a>
-                
-                <a class="menu-item" href="https://lsc20.github.io/Acheng/JPURZc28M">
-                    我的简历
-                </a>
-                
-                <input id="switch_default" type="checkbox" class="switch_default">
-                <label for="switch_default" class="toggleBtn"></label>
-            </div>
+  <div class="antialiased flex flex-col min-h-screen" id="app">
 
-        </div>
-    </nav>
-
-    
-    <nav class="navbar-mobile" id="nav-mobile">
-        <div class="container">
-            <div class="navbar-header">
-                <div>
-                    <a href="https://lsc20.github.io/Acheng/">
-                        阿城
-                    </a>
-                    <!--en-->
-                    <a id="mobile-toggle-theme-en" class="a en">&nbsp;Dark</a>
-                    <!--zh-->
-                    <a id="mobile-toggle-theme-zh" class="a zh">&nbsp;\u6697\u9ED1</a>
-                </div>
-                <!--en-->
-                <div class="menu-toggle" id="menu-toggle-en" onclick="mobileBtn()">&#9776; Menu</div>
-                <!--zh-->
-                <div class="menu-toggle" id="menu-toggle-zh" onclick="mobileBtn()">&#9776; è�œå�•</div>
-
-            </div>
-            <div class="menu" id="mobile-menu">
-                
-                <a class="menu-item" href="https://lsc20.github.io/Acheng/">
-                    首页
-                </a>
-                
-                <a class="menu-item" href="https://lsc20.github.io/Acheng//archives">
-                    时间线
-                </a>
-                
-                <a class="menu-item" href="https://lsc20.github.io/Acheng/archives">
-                    标签
-                </a>
-                
-                <a class="menu-item" href="https://lsc20.github.io/Acheng/JPURZc28M">
-                    我的简历
-                </a>
-                
-            </div>
-        </div>
-    </nav>
-</header>
-<script>
-    var mobileBtn = function f() {
-        var toggleMenu = document.getElementById("menu-toggle-en");
-        var toggleMenu_zh = document.getElementById("menu-toggle-zh");
-
-        var mobileMenu = document.getElementById("mobile-menu");
-        if (toggleMenu.display != "none") {
-            if (toggleMenu.classList.contains("active")) {
-                toggleMenu.classList.remove("active")
-                mobileMenu.classList.remove("active")
-            } else {
-                toggleMenu.classList.add("active")
-                mobileMenu.classList.add("active")
-            }
-        } else if (toggleMenu_zh.display != "none") {
-            if (toggleMenu_zh.classList.contains("active")) {
-                toggleMenu_zh.classList.remove("active")
-                mobileMenu.classList.remove("active")
-            } else {
-                toggleMenu_zh.classList.add("active")
-                mobileMenu.classList.add("active")
-            }
-        }
-
-    }
-</script>
-        <div class="main">
-            <div class="container">
-                <div class="post-wrap archive">
-                    
-                    
-                    <h3>
-                        2020
-                    </h3>
-                    
-                    
-
-                    <article class="archive-item">
-                        <a class="archive-item-link" href="https://lsc20.github.io/Acheng/JPURZc28M/">
-                            求职意向：UI设计、前端开发
-                        </a>
-                        <span class="archive-item-date">20191009 </span>
-                    </article>
-                    
-                    
-                    
-                    
-                    
-                    <h3>
-                        2019
-                    </h3>
-                    
-                    
-                    
-                    
-
-                    <article class="archive-item">
-                        <a class="archive-item-link" href="https://lsc20.github.io/Acheng/about/">
-                            关于
-                        </a>
-                        <span class="archive-item-date">20191009 </span>
-                    </article>
-                    
-                    
-                    
-                </div>
-            </div>
-        </div>
+    <div class="nav py-3 md:py-8 fixed w-full z-10 bg-gray-50 dark:bg-gray-700 transition-all duration-300" :class="{ 'scroll': scrolled }">
+  <div class="flex justify-end px-4">
+    <div class="w-8 h-8 flex justify-center items-center rounded-full md:hidden" @click="showMenu = !showMenu">
+      <i class="ri-close-line" v-show="showMenu"></i>
+      <i class="ri-menu-3-line" v-show="!showMenu"></i>
     </div>
+  </div>
+  <nav class="max-w-4xl w-full mx-auto text-center flex flex-col md:flex-row justify-center md:block" :class="`${ showMenu ? 'block' : 'hidden' }`">
     
-        <footer id="footer" class="footer">
+      <a href="https://lsc20.github.io/Acheng/" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
+        首页
+      </a>
+    
+      <a href="https://lsc20.github.io/Acheng//archives" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
+        时间线
+      </a>
+    
+      <a href="https://lsc20.github.io/Acheng/archives" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
+        标签
+      </a>
+    
+      <a href="https://lsc20.github.io/Acheng/tags" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
+        我的简历
+      </a>
+    
+    <a href="https://lsc20.github.io/Acheng//atom.xml" target="_blank" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
+      RSS
+    </a>
+  </nav>
+</div>
 
-            <div class="copyright">
-                <div class="Like">
-                    <div class="tip" data-tooltip="Do you like it?">
-                        <a href="https://github.com/ITJoker233/Gridea-theme-Chic" target="_blank" title=""><svg class="icon" aria-hidden="true"><use xlink:href="#like"></use></svg><b class="like_text" id="star"></b></a>
-                    </div>
-                </div>
-                
-                    <b id="hitokoto"></b><br>
-                    <svg viewBox="0 0 1024 1024" style="margin-left: 5px;margin-right: 5px;" version="1.0" width="8" height="8" class="my-face"><path d="M863.597631 513.574282l-271.33965-140.213484L729.783667 81.926656c3.583731-7.87141 7.167462-15.742819 7.167462-25.214109C736.887134 25.226908 708.345275 0.012799 672.635953 0.012799a63.611229 63.611229 0 0 0-39.293053 12.607055c-1.791866 1.59988-3.519736 3.19976-5.311602 3.19976L147.87531 418.925381a55.547834 55.547834 0 0 0-19.646527 47.356448c1.791866 17.278704 14.27093 33.021523 32.125591 42.492813l271.33965 141.749369L292.504463 945.221908c-12.479064 25.214109-1.791866 53.563983 23.166262 69.306802 10.751194 6.335525 23.230258 9.47129 35.709322 9.47129 16.062795 0 32.125591-4.735645 44.604655-15.742819l480.091993-403.297753a55.547834 55.547834 0 0 0 19.646526-47.228458 61.243407 61.243407 0 0 0-32.12559-44.156688z" fill="#93b5cf"></path></svg>
-                    阿城 &copy;Copyright
-                        <script>
-                            var date = new Date();
-                            document.write("" + date.getFullYear());
-                        </script>
-                        | Powered by <a href="https://coding.net" target="_blank">Coding.net</a>
-            </div>
-            <div id="update" style="display:none;">
-                on
-            </div>
-            
-                <div id="version" style="display:none;">
-                    1.5.0
-                </div>
-                
-        </footer>
+    <div class="max-w-4xl w-full mx-auto pt-32">
+      <h1 class="text-2xl font-bold pb-8 flex justify-center items-center">
+        <i class="ri-hashtag"></i>
+        我的简历
+      </h1>
+      <div class="shadow-box bg-white dark:bg-gray-600 border-gray-300 rounded-none md:rounded-lg -mx-1 md:mx-0 md:px-0">
         
-                <script>
-                    hitokoto();
-                    getStar();
-                    hljs.initHighlighting();
-                    console.clear();
-                    CheckVersion();
-                    console.log("\n %c \u26a1Theme:Chic Author's Blog:https://blog.itjoker.cn  Write By ITJoker  \n\n", "color: #ffffff; background: rgba(49, 49, 49, 0.85); padding:5px 0;border-radius:5px;", );
-                </script>
+  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
+    
+    <div class="flex-1 order-2 md:order-1">
+      <h2 class="text-2xl font-semibold mb-4">
+        <a href="https://lsc20.github.io/Acheng/JPURZc28M/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
+          求职意向：UI设计、前端开发
+        </a>
+      </h2>
+      <div class="mb-4 text-xs text-gray-500">20191009</div>
+      <div class="mb-4 text-gray-500 dark:text-gray-300">
+        #罗顺城
+自我评价
+学习背景：计算机专业生，主攻平面设计，擅长PPT文案设计制作，逻辑思维能力强，富有创新意识。
+专业能力：平面设计经验丰富，多次参与大型设计比赛，取得优良成绩，有良好的设计理念。
+个人能力：热爱生活，热爱运动，富有爱...
+      </div>
+      <a href="https://lsc20.github.io/Acheng/JPURZc28M/" class="btn">
+        Read more
+      </a>
     </div>
+    
+  </div>
+
+  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
+    
+    <div class="flex-1 order-2 md:order-1">
+      <h2 class="text-2xl font-semibold mb-4">
+        <a href="https://lsc20.github.io/Acheng/about/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
+          关于
+        </a>
+      </h2>
+      <div class="mb-4 text-xs text-gray-500">20191009</div>
+      <div class="mb-4 text-gray-500 dark:text-gray-300">
+        
+欢迎来到我的小站呀，很高兴遇见你！🤝
+
+🏠 关于本站
+👨‍💻 博主是谁
+⛹ 兴趣爱好
+📬 联系我呀
+...
+      </div>
+      <a href="https://lsc20.github.io/Acheng/about/" class="btn">
+        Read more
+      </a>
+    </div>
+    
+  </div>
+  
+      </div>
+
+      
+      <footer class="py-12 text-center px-4 md:px-0" v-pre>
+  
+</footer>
+
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script src="https://lsc20.github.io/Acheng//media/scripts/main.js"></script>
 </body>
 </html>
